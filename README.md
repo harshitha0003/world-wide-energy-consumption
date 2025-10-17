@@ -31,7 +31,7 @@ Contains basic details about each country.
 |--------------|------------|-------------|
 | `country_id` | INT (PK) | Unique identifier for each country |
 | `country_name` | VARCHAR | Name of the country |
-| `region` | VARCHAR | Geographical region of the country |
+
 
 ---
 
